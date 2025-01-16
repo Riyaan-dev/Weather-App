@@ -33,6 +33,3 @@ python weather_app.py
 ```
 Enter the city name when prompted to see its current weather.
 
-## License
-This project is licensed under the MIT License.
-```
