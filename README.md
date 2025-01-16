@@ -1,7 +1,6 @@
 # Weather-App
 App that uses OpenWeatherMap API to fetch data for a desired city and gives you relevant information about weather in that area
-```
-# WeatherApp
+``# WeatherApp
 
 WeatherApp is a simple Python application that fetches and displays the current weather for a given city using the OpenWeatherMap API.
 
